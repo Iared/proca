@@ -1,6 +1,6 @@
 {
   "consent": {
-    "intro":"Iscriviti agli gli aggiornamenti via e-mail di questa raccolta firme e ulteriori campagne importanti di {{name}}",
+    "intro":"Iscriviti agli aggiornamenti via e-mail di questa raccolta firme e di ulteriori campagne importanti di {{name}}",
     "opt-in":"Sì! Ditemi se questa raccolta firme ha avuto successo e come posso aiutare per altre campagne rilevanti.",
     "opt-out": "No. Non desidero ricevere aggiornamenti sui progressi di questa raccolta firme",
     "confirm":"<0>Sei sicuro/a?</0><1>Scopri via e-mail se abbiamo successo con questa raccolta firme e come puoi continuare a impegnarti su questo tema - il nostro movimento rimane collegato via e-mail!</1><2> Puoi annullare l’iscrizione in qualsiasi momento.</2>",
